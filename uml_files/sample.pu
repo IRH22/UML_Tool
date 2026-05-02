@@ -1,0 +1,6 @@
+@startuml 
+Motor_Vehicle <|-- Car
+Vehicle <|-- Motor_Vehicle
+Motor_Vehicle o-- Engine
+Vehicle <|-- Boat
+@enduml
