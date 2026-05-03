@@ -23,6 +23,7 @@ This project was developed as an Object-Oriented Programming assignment using Ja
 
 - Java
 - PlantUML
+- Eclipse IDE
 
 ## Project Structure
 
@@ -32,3 +33,22 @@ src/
 ├── ImageGenerator.java
 ├── UmlManager.java
 └── UmlTool.java
+```
+
+## Required Dependency
+
+This project requires the PlantUML library.
+
+Download the PlantUML `.jar` file from:
+
+https://plantuml.com/download
+
+## Sample Files
+
+- `sample.pu` → Example PlantUML file
+- `sample.png` → Generated PNG diagram
+- `sample.svg` → Generated SVG diagram
+
+## Author
+
+Ingrid Rangel Hernandez
